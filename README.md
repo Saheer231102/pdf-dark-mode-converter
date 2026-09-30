@@ -23,7 +23,7 @@ A fast, private, and client-side web application to convert any PDF file into co
 ## 🚀 Live Demo
 
 Open the tool directly in your browser:  
-👉 **[Launch PDF Dark Mode Converter](https://chizkiyahu.github.io/pdf-dark-mode-converter/)**
+👉 **[Launch PDF Dark Mode Converter](https://saheer231102.github.io/pdf-dark-mode-converter/)**
 
 ---
 
@@ -75,7 +75,7 @@ All PDF parsing, canvas rendering, color inversion, and document re-assembly run
 Run the static web application locally with any web server:
 
 ```bash
-git clone https://github.com/Chizkiyahu/pdf-dark-mode-converter.git
+git clone https://github.com/saheer231102/pdf-dark-mode-converter.git
 cd pdf-dark-mode-converter
 python -m http.server 8080
 ```

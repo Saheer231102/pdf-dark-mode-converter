@@ -108,7 +108,7 @@ To run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Chizkiyahu/pdf-dark-mode-converter.git
+git clone https://github.com/saheer231102/pdf-dark-mode-converter.git
 
 # 2. Open the directory
 cd pdf-dark-mode-converter
