@@ -1,0 +1,49 @@
+# ==============================================================================
+# PDF Dark Mode Converter - Git Ignore
+# ==============================================================================
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# Editors & IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Logs and Runtime Data
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Test Files & Converted Artifacts
+*.pdf
+test_sample.*
+multi_page_sample.*
+
+# Local Server & Python Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Build & Temporary Files
+dist/
+build/
+tmp/
+temp/
