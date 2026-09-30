@@ -23,7 +23,8 @@ A fast, private, and client-side web application to convert any PDF file into co
 ## 🚀 Live Demo
 
 Open the tool directly in your browser:  
-👉 **[Launch PDF Dark Mode Converter](https://saheer231102.github.io/pdf-dark-mode-converter/)**
+👉 **[Launch PDF Dark Mode Converter](https://pdf-dark-mode-converter.is-a.dev/)**
+*(or fallback: [https://saheer231102.github.io/pdf-dark-mode-converter/](https://saheer231102.github.io/pdf-dark-mode-converter/))*
 
 ---
 
